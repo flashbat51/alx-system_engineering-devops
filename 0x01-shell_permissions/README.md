@@ -1,1 +1,1 @@
-#This scripts assess knowledge on shell permissins
+This scripts assess knowledge on shell permissins
